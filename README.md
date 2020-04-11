@@ -1,3 +1,8 @@
+## :warning: DEPRECATED DOC!
+
+**This is a forked repository in order to use the original project behind an automated nginx reverse proxy with LetsEncrypt.**
+
+---
 # Jitsi Meet on Docker
 
 ![](resources/jitsi-docker.png)
